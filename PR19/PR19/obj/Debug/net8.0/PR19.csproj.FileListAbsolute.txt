@@ -1,0 +1,15 @@
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.AssemblyInfoInputs.cache
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.AssemblyInfo.cs
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.csproj.CoreCompileInputs.cache
+D:\Progra\PR19\PR19\bin\Debug\net8.0\PR19.exe
+D:\Progra\PR19\PR19\bin\Debug\net8.0\PR19.deps.json
+D:\Progra\PR19\PR19\bin\Debug\net8.0\PR19.runtimeconfig.json
+D:\Progra\PR19\PR19\bin\Debug\net8.0\PR19.dll
+D:\Progra\PR19\PR19\bin\Debug\net8.0\PR19.pdb
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.dll
+D:\Progra\PR19\PR19\obj\Debug\net8.0\refint\PR19.dll
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.pdb
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.genruntimeconfig.cache
+D:\Progra\PR19\PR19\obj\Debug\net8.0\ref\PR19.dll
+D:\Progra\PR19\PR19\obj\Debug\net8.0\PR19.sourcelink.json
